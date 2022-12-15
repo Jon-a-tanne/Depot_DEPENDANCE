@@ -1,0 +1,513 @@
+<lang="français">
+    <page="francais_1">
+    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+    <page="francais_2">
+    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+    <page="francais_1">
+    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+    <page="francais_2">
+    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+    <page="francais_1">
+    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+    <page="francais_2">
+    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+    <page="francais_1">
+    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+    <page="francais_2">
+    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+    <page="francais_1">
+    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+    <page="francais_2">
+    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+    <page="francais_1">
+        <text>Ici, le contenu du fichier fr-1.</text> </page> §
+        <page="francais_2">
+        <text>Ici, le contenu du fichier fr-2.</text> </page> §
+        <page="francais_1">
+        <text>Ici, le contenu du fichier fr-1.</text> </page> §
+        <page="francais_2">
+        <text>Ici, le contenu du fichier fr-2.</text> </page> §
+        <page="francais_1">
+        <text>Ici, le contenu du fichier fr-1.</text> </page> §
+        <page="francais_2">
+        <text>Ici, le contenu du fichier fr-2.</text> </page> §
+        <page="francais_1">
+        <text>Ici, le contenu du fichier fr-1.</text> </page> §
+        <page="francais_2">
+        <text>Ici, le contenu du fichier fr-2.</text> </page> §
+        <page="francais_1">
+        <text>Ici, le contenu du fichier fr-1.</text> </page> §
+        <page="francais_2">
+        <text>Ici, le contenu du fichier fr-2.</text> </page> §
+        <page="francais_1">
+            <text>Ici, le contenu du fichier fr-1.</text> </page> §
+            <page="francais_2">
+            <text>Ici, le contenu du fichier fr-2.</text> </page> §
+            <page="francais_1">
+            <text>Ici, le contenu du fichier fr-1.</text> </page> §
+            <page="francais_2">
+            <text>Ici, le contenu du fichier fr-2.</text> </page> §
+            <page="francais_1">
+            <text>Ici, le contenu du fichier fr-1.</text> </page> §
+            <page="francais_2">
+            <text>Ici, le contenu du fichier fr-2.</text> </page> §
+            <page="francais_1">
+            <text>Ici, le contenu du fichier fr-1.</text> </page> §
+            <page="francais_2">
+            <text>Ici, le contenu du fichier fr-2.</text> </page> §
+            <page="francais_1">
+            <text>Ici, le contenu du fichier fr-1.</text> </page> §
+            <page="francais_2">
+            <text>Ici, le contenu du fichier fr-2.</text> </page> §
+            <page="francais_1">
+                <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                <page="francais_2">
+                <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                <page="francais_1">
+                <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                <page="francais_2">
+                <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                <page="francais_1">
+                <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                <page="francais_2">
+                <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                <page="francais_1">
+                <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                <page="francais_2">
+                <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                <page="francais_1">
+                <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                <page="francais_2">
+                <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                <page="francais_1">
+                    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                    <page="francais_2">
+                    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                    <page="francais_1">
+                    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                    <page="francais_2">
+                    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                    <page="francais_1">
+                    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                    <page="francais_2">
+                    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                    <page="francais_1">
+                    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                    <page="francais_2">
+                    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+                    <page="francais_1">
+                    <text>Ici, le contenu du fichier fr-1.</text> </page> §
+                    <page="francais_2">
+                    <text>Ici, le contenu du fichier fr-2.</text> </page> §
+</lang>
+<lang="anglais">
+    <page="anglais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="anglais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+</lang>
+</lang>
+<lang="chinois">
+    <page="chinois_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="chinois_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+</lang>
+</lang>
+<lang="coréen">
+    <page="coreen_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="coreen_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+</lang>
+</lang>
+<lang="japonais">
+    <page="japonais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_1">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_2">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_3">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_4">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_5">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_6">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_7">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_8">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_9">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+    <page="japonais_10">
+    <text>Ici, le contenu du fichier en-1.</text> </page> §
+</lang>
