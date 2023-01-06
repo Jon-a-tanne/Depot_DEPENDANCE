@@ -33,7 +33,7 @@ tbody tr:nth-child(even){
 }
 
 body {
-    background: url(/images/pexels-tima-miroshnichenko-7047322.jpg) center/cover;
+    background-image: url(/images/pexels-tima-miroshnichenko-7047322.jpg) center/cover;
     min-height: 100vh;
     background-color: black;
 }
