@@ -10,6 +10,7 @@ tableau-style {
     cursor: pointer;
     margin: 0px auto;
     border: 2px solid midnightblue;
+    
 }
 thead tr {
     background-color: midnightblue;
@@ -24,6 +25,8 @@ th, td {
 }
 tbody tr, td, th{
     border: 1px solid #ddd;
+    position: relative;
+    width: 100vw;
 }
 tbody tr{
     background-color: #fff;
