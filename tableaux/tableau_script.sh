@@ -32,3 +32,5 @@ do
 	echo "ligne $compteur_ligne: $line";
 	compteur_ligne=$((compteur_ligne+1));
 done < $urls
+
+#lire chaque url du fichier
