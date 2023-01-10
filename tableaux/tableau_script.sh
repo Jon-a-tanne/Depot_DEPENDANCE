@@ -2,7 +2,7 @@
 #==================================================================
 #comportment du programme et comment on lance le programme - à écrire 
 
-# Le programme contient 3 arguments:
+# Le programme contient 2 arguments:
 #$1 = urls
 #$2 = tableaux
 #==================================================================
