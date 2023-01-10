@@ -19,6 +19,16 @@ echo "<body>" >> $2 ;
 for fichier in $(ls $1)
 do 
   echo " " >> $2 ; 
+  echo "<table align=\"center\" border=\"10px\" bordercolor=\"red\">" >> $tableaux;
+		compteur=1; # compteur d'URL
+		echo "<tr><th colspan=\"11\">TABLEAU $compteur_tableau</th></tr>" >> $tableaux;
+		echo "<tr>
+		<td>No.</td>
+		<td>HTTP</td>
+        <td>URL</td>
+		<td>Encodage</td>
+		<td>DUMP</td>
+		</tr>" >> $tableaux;
 
 #pour compter des tableaux
 compteur_tableau=1 ;
