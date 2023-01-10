@@ -23,11 +23,10 @@ do
 		compteur=1; # compteur d'URL
 		echo "<tr><th colspan=\"11\">TABLEAU $compteur_tableau</th></tr>" >> $tableaux;
 		echo "<tr>
-		<td>No.</td>
-		<td>HTTP</td>
-        <td>URL</td>
+		<td>ligne</td>
+		<td>code</td>
+        	<td>URL</td>
 		<td>Encodage</td>
-		<td>DUMP</td>
 		</tr>" >> $tableaux;
 
 #pour compter des tableaux
