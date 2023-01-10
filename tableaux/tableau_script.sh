@@ -5,7 +5,6 @@
 # Le programme contient 3 arguments:
 #$1 = urls
 #$2 = tableaux
-#$3 = motif
 #==================================================================
 #pour lire des urls et recuperer les contenues
 urls=$1 # le fichier d'URL en entrée
@@ -31,6 +30,44 @@ while read -r line;
 do
 	echo "ligne $compteur_ligne: $line";
 	compteur_ligne=$((compteur_ligne+1));
-done < $urls
+done < $url_en.txt
 
-#lire chaque url du fichier
+while read -r URL; do
+	echo -e "\tURL : $URL";
+	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
+	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+	echo -e "\tcode : $code";
+
+	if [[ ! $charset ]]
+	then
+		echo -e "\tencodage non détecté.";
+		charset="UTF-8";
+	else
+		echo -e "\tencodage : $charset";
+	fi
+
+	if [[ $code -eq 200 ]]
+	then
+		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
+		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
+		then
+			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
+		fi
+	else
+		echo -e "\tcode différent de 200 utilisation d'un dump vide"
+		dump=""
+		charset=""
+	fi
+
+	echo "$dump" > "dumps-text/$basename-$compteur_ligne.txt"
+
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $2
+	echo -e "\t--------------------------------"
+	compteur_ligne=$((compteur_ligne+1));
+done < $urls
+echo "</table>" >> $tableaux
+echo "</body></html>" >> $tableaux
+
+#dumps_texts
+for ligne in $(ls $1)
+    do 
