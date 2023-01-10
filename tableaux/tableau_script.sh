@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #==================================================================
-#comportment du programme et comment on lance le programme - à écrire 
+#Ce programme sert à créer des tableaux.
 
 # Le programme contient 2 arguments:
 #$1 = urls
