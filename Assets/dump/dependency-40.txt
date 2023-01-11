@@ -1,0 +1,133 @@
+EN
+
+  • 注册
+  • 登录
+
+首页资讯期刊导师问答求职发Paper 文献直达高级搜索期刊列表
+xmol-logo
+[                    ] 搜索
+当前位置： X-MOL 学术 › Front. Aging Neurosci. › 论文详情
+依靠视觉输入实现老年人平衡技能的转移：使用最小生成树的EEG Connectome分析
+Frontiers in Aging Neuroscience ( IF 5.702 ) Pub Date : 2021-01-07 , DOI: 
+10.3389/fnagi.2021.632553 Yi-Ching Chen , Yu-Chen Chou , Ing-Shiou Hwang
+
+训练有素的平衡练习中的技能转移对于降低老年人的跌倒率至关重要，而老年人由于年龄
+相关的感觉重心而更多地依靠视觉来控制姿势反应。借助脑电图（EEG）最小生成树（MST
+）结构，本研究的目的是比较姿势训练后使用老年人的完整和间歇性视觉反馈进行的脊髓
+上神经传递网络的组织。三十二名成年人被随机分配到频闪视觉（SV）（ñ= 16; 年龄=
+64.7±3.0岁）和对照组（16; 66.3±2.7岁）组，在带有在线视觉反馈的稳定器（目标任务
+）上进行平衡训练。在稳定器训练之前和之后，比较了泡沫表面上双边姿势（转移任务）
+过程中的压力中心特性和加权相滞后指数的基于MST的连接套。结果表明，SV组和对照组在
+训练任务中均显示出姿势稳定性的改善（p<0.001）。但是，与对照组（p = 0.030），在
+稳定器训练期间接受间歇性视觉反馈的SV组未能在后测中减小姿势转移任务前后方向的姿
+势摇摆大小（泡沫表面上的不稳定姿势）（p= 0.694）。此外，SV组中没有进行后期测试
+中传输任务的网络集成（p> 0.05）。在测试后的对照组中，其表现为与训练相关的β带叶
+分数增加（p = 0.015）和alpha波段中的最大中间度（p = 0.018），但直径的alpha值较
+小（p = 0.006）/ beta（p = 0.021）频段和alpha频段（p= 0.028）。总之，带频闪观测
+仪的稳定器训练会损害老年人的姿势技巧对不稳定姿势的普遍性。足够的视觉信息是脊髓
+上神经网络在老年人中保持平衡能力的关键中介因素。
+
+
+
+[paperTrans]
+
+"点击查看英文标题和摘要"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Reliance on Visual Input for Balance Skill Transfer in Older Adults: EEG
+Connectome Analysis Using Minimal Spanning Tree
+
+
+Skill transfer from trained balance exercises is critical to reduce the rate of
+falls in older adults, who rely more on vision to control postural responses
+due to age-dependent sensory reweighting. With an electroencephalography (EEG)
+minimum spanning tree (MST) structure, the purpose of this study was to compare
+the organization of supraspinal neural networks of transfer effect after
+postural training using full and intermittent visual feedbacks for older
+adults. Thirty-two older adults were randomly assigned to the stroboscopic
+vision (SV) (n = 16; age = 64.7 ± 3.0 years) and control (16; 66.3 ± 2.7 years)
+groups for balance training on a stabilometer (target task) with on-line visual
+feedback. Center-of-pressure characteristics and an MST-based connectome of the
+weighted phase-lag index during the bilateral stance on a foam surface
+(transfer task) were compared before and after stabilometer training. The
+results showed that both the SV and control groups showed improvements in
+postural stability in the trained task (p < 0.001). However, unlike the control
+group (p = 0.030), the SV group who received intermittent visual feedback
+during the stabilometer training failed to reduce the size of postural sway in
+the anteroposterior direction of the postural transfer task (unstable stance on
+the foam surface) in the post-test (p = 0.694). In addition, network
+integration for the transfer task in the post-test was absent in the SV group
+(p > 0.05). For the control group in the post-test, it manifested with
+training-related increases in leaf fraction in beta band (p = 0.015) and
+maximum betweenness in alpha band (p = 0.018), but a smaller diameter in alpha
+(p = 0.006)/beta (p = 0.021) bands and average eccentricity in alpha band (p =
+0.028). In conclusion, stabilometer training with stroboscopic vision impairs
+generalization of postural skill to unstable stance for older adults. Adequate
+visual information is a key mediating factor of supraspinal neural networks to
+carry over balance skill in older adults.
+
+更新日期：2021-02-04
+  点击分享   查看原文
+点击收藏取消收藏
+新增笔记
+公开下载
+阅读更多本刊最新论文本刊介绍/投稿指南
+
+  • PDF    https://www.frontiersin.org/articles/10.3389/fnagi.2021.632553/pdf
+
+[                    ] [评论]
+ 
+全部期刊列表>>
+长期新冠肺炎
+聚焦肿瘤免疫学基础应用的高质量研究
+EnvironmentalPollutantsand Bioavailability
+爱思唯尔官方语言编辑服务
+喜文乐荐编辑润色服务
+京东学术图书双十一
+OXFORD
+聚焦材料工程和技术材料物理和化学及新型材料领域
+Automatika聚焦自动控制、机器人、电子、计算机及通讯
+EDITINGSERVICES编辑润色服务新
+AJE是与Nature期刊合作的论文润色机构
+ELSEVIER理工paper精准润色
+Nature论文写作课程
+Frontiers 期刊最新因子现已公布
+ELSEVIER第一届国际分离钝化技术大会
+最新CiteScore引用分出炉
+屿渡论文，编辑服务
+浙大
+上海交通
+复旦大学
+德萨斯克
+德克萨斯
+国家留学
+南科大
+南开
+清华大学
+四川大学
+隐藏1h前已浏览文章
+课题组网站
+新版X-MOL期刊搜索和高级搜索功能介绍
+ACS材料视界
+x-mol收录
+试剂库存
+
+  • 学术期刊
+  • 行业资讯
+  • 全球导师
+  • X-MOL问答
+  • 求职广场
+  • 网址导航
+  • 关于我们
+  • 帮助中心
+
+客服邮箱：service@x-mol.com 官方微信：X-molTeam2 邮编：100098 地址：北京市海淀
+区知春路56号中航科技大厦
+[app-downlo]         [wechat-qr]
+Copyright © 2014-2023 北京衮雪科技有限公司 All Rights Reserved     京ICP备
+11026495-2号      [beian] 京公网安备 11010802027423号
+[1673392553]
+down
+wechat
+bug bug
+ 
