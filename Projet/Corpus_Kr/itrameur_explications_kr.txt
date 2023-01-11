@@ -1,0 +1,32 @@
+Selon les résultats, nous observons les choses suivantes : 
+
+Les noms qui ressortent le plus sont : 
+  - 게임 (jeux vidéos) : 767 occurrences 
+  - 사람 (individu, personne) : 613 occurrences
+  - 중독 (dépendance dans le sens péjoratif de l'addiction : Dans 중독, on a "독" qui veut dire "poison") : 526 occurrences 
+  - 의존 (dépendance) : 415 occurrences 
+  - 가족 (famille) : 690 occurrences 
+  
+Dans ce corpus, le mot 의존 est le plus souvent rattaché aux mots :
+  - 정서적 (émotionnel, sentimental) 
+  - 감정적 (sentimental)
+  - 알코올 (alcool)
+  - 사람 (individu, personne)
+  - 가족 (famille)
+  - 관계 (relation)
+On voit que le mot "dépendance" sera le plus souvent rattaché à un concept.
+Cette dépendance sera affective envers des individus proches comme la famille. 
+On retrouve même le terme 가족병 "maladie de la famille" qui pointe du doigt cette dépendance maladive installée dans la société coréenne par principe 
+de redevance et de piété filiale envers ses aînés. 
+
+Dans ce corpus, le mot 중독 est le plus souvent rattaché aux mots :
+  - 인터넷 (internet)
+  - 스마트폰 (smartphone)
+  - 알코올 (alcool)
+  - 게임 (jeux vidéo)
+  - 약물 (médicament, drogue)
+  - 마약 (drogue, stupéfiant)
+ Ici l'on voit que le mot "addiction" sera le plus souvent rattaché à des choses matérielles fortement susceptibles d'avoir un impact sur notre santé.
+ Comme la drogue, l'alcool ou encore l'usage d'internet et du téléphone portable. 
+ 
+ 
