@@ -17,7 +17,7 @@ Dans ce corpus, le mot 의존 est le plus souvent rattaché aux mots :
 On voit que le mot "dépendance" sera le plus souvent rattaché à un concept.
 Cette dépendance sera affective envers des individus proches comme la famille. 
 On retrouve même le terme 가족병 "maladie de la famille" qui pointe du doigt cette dépendance maladive installée dans la société coréenne par principe 
-de redevance et de piété filiale envers ses aînés. 
+de redevance et de piété filiale envers ses aînés. Ou encore le terme 모성 "dépendance maternelle". 
 
 Dans ce corpus, le mot 중독 est le plus souvent rattaché aux mots :
   - 인터넷 (internet)
@@ -29,4 +29,5 @@ Dans ce corpus, le mot 중독 est le plus souvent rattaché aux mots :
  Ici l'on voit que le mot "addiction" sera le plus souvent rattaché à des choses matérielles fortement susceptibles d'avoir un impact sur notre santé.
  Comme la drogue, l'alcool ou encore l'usage d'internet et du téléphone portable. 
  
+ Bien sûr, les termes qui ressortiront le plus sont des particules et éléments grammaticaux qui ne donnent pas forcément l'importance de développer. 
  
